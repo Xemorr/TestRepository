@@ -5,7 +5,7 @@ public class Main
 {
 
     public static void main(String[] args) {
-        System.out.println(Main.myPow(3, 4));
+        System.out.println(Main.myPow(2, 3));
     }
 
     public static double myPow(double x, int n) {
